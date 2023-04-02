@@ -1,40 +1,41 @@
+> Just a dashboard for me to see performance of team at Adrixus & [Spreadd-Adtech](https://github.com/Spreadd-Adtech)
 
-## Aakash Gajjar
+## Aakash Gajjar [@akash-gajjar](https://github.com/akash-gajjar)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-gajjar&" alt="akash-gajjar" /></p>
 
-## Shubham Mehra
+## Shubham Mehra [@shubham-spreadd](https://github.com/shubham-spreadd)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-spreadd&" alt="shubham-spreadd" /></p>
 
-## Tara Khant
+## Tara Khant [@tarakhant1297](https://github.com/tarakhant1297)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarakhant1297&" alt="tarakhant1297" /></p>
 
-## Manoj Gohel
+## Manoj Gohel [@manojadrixus](https://github.com/manojadrixus)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojadrixus&" alt="manojadrixus" /></p>
 
-## Ankit Limbad
+## Ankit Limbad [@ankitlimbad5293](https://github.com/ankitlimbad5293)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitlimbad5293&" alt="ankitlimbad5293" /></p>
 
-## Dhruv Ambaliya
+## Dhruv Ambaliya [@ambaliyadhruv1112](https://github.com/ambaliyadhruv1112)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambaliyadhruv1112&" alt="ambaliyadhruv1112" /></p>
 
-## Parth Shah
+## Parth Shah [@ParthShah0411](https://github.com/ParthShah0411)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ParthShah0411&" alt="ParthShah0411" /></p>
 
-## Jasmin Thummar
+## Jasmin Thummar [@Jasmin2812](https://github.com/Jasmin2812)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jasmin2812&" alt="Jasmin2812" /></p>
 
-## Shail Patel
+## Shail Patel [@Shail-Patel-1](https://github.com/Shail-Patel-1)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shail-Patel-1&" alt="Shail-Patel-1" /></p>
 
-## Darshit Patel
+## Darshit Patel [@DarshitAdrixus](https://github.com/DarshitAdrixus)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshitAdrixus&" alt="DarshitAdrixus" /></p>
