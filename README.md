@@ -1,5 +1,9 @@
 > Just a dashboard for me to see performance of team at Adrixus & [Spreadd-Adtech](https://github.com/Spreadd-Adtech)
 
+## Ankit Chauhan [@ankitadrixus08](https://github.com/ankitadrixus08)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitadrixus08&" alt="ankitadrixus08" /></p>
+
 ## Aakash Gajjar [@akash-gajjar](https://github.com/akash-gajjar)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-gajjar&" alt="akash-gajjar" /></p>
@@ -36,7 +40,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shail-Patel-1&" alt="Shail-Patel-1" /></p>
 
-## Darshit Patel [@DarshitAdrixus](https://github.com/DarshitAdrixus)
+## Darshit Kamani [@DarshitAdrixus](https://github.com/DarshitAdrixus)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshitAdrixus&" alt="DarshitAdrixus" /></p>
 
