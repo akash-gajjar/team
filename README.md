@@ -39,3 +39,10 @@
 ## Darshit Patel [@DarshitAdrixus](https://github.com/DarshitAdrixus)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshitAdrixus&" alt="DarshitAdrixus" /></p>
+
+
+> If you want to make your stats visible here, be sure to enable private contributions in your profile
+>
+> ![Activity](./help-activity.png)
+>
+> After enabling this setting it may take 5-10 minutes to update them here.
