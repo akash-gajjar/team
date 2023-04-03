@@ -38,7 +38,7 @@
 
 ## Shail Patel [@Shail-Patel-1](https://github.com/Shail-Patel-1)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shail-Patel-1&" alt="Shail-Patel-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shail-Patel-1&1" alt="Shail-Patel-1" /></p>
 
 ## Darshit Kamani [@DarshitAdrixus](https://github.com/DarshitAdrixus)
 
