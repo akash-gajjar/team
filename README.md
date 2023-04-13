@@ -44,6 +44,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarshitAdrixus&" alt="DarshitAdrixus" /></p>
 
+## Jenish Ghoghari [@Jenish-Adrixus](https://github.com/Jenish-Adrixus)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jenish-Adrixus&" alt="DarshitAdrixus" /></p>
+
 
 > If you want to make your stats visible here, be sure to enable private contributions in your profile
 >
